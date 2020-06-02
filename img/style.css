@@ -1,0 +1,67 @@
+a:hover {
+    /* hover - só funciona quando passa o mouse */
+    text-decoration: none;
+}
+
+.bg-roxo {
+    background-color: #7E459B;
+}
+
+nav a:hover {
+    font-weight: 500;
+}
+
+.imagem-carrosel {
+    object-fit: cover;
+    /* tira o achatado da imagem */
+    object-position: 0 90%;
+    /* altera a posição no eixo x e y */
+    height: 200vh;
+}
+
+.redes-sociais span {
+    color: black;
+}
+
+.redes-sociais i {
+    /* chamei o ícone (i) */
+    color:  #7E459B;
+    font-size: 1.2rem;  
+}
+
+.redes-sociais span:hover {
+    color: #7E459B;
+}
+
+.container {
+    font-size: 20px;
+    font-size: 13px;
+}
+
+.habilidades i {
+    font-size: 1.5rem;
+}
+
+
+.tamanho-card {
+    width: 18rem;
+}
+
+.imagem-card {
+    object-fit: cover;
+    object-position: top;
+    height: 40vh;
+}
+
+.imagens-modal {
+    width: 28rem;
+}
+
+.botao {
+    background-color: #7E459B;
+    color: white;
+}
+
+.link-reprograma {
+    color:  rgb(190, 122, 224);
+}
